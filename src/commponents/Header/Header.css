@@ -1,0 +1,25 @@
+.manu{
+    background-color: #1C2B35;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 140px;
+    
+}
+
+.manu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    gap:0px 20px;
+}
+
+.manu ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.manu ul li a:hover{
+    color: orange;
+}
